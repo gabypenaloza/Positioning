@@ -1,0 +1,19 @@
+/* Inserta tu CSS aqui */
+div{
+   width: 200px;
+   height: 200px;
+   position: static;
+  
+}
+
+.rosa{
+	background-color: #ee3e64;
+}
+
+.azul{
+	background-color: #2C76B4;
+}
+
+.verde{
+	background-color: #b7d84b;
+}
