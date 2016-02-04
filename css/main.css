@@ -2,27 +2,26 @@
 div{
    width: 200px;
    height: 200px;
- 
-   
   
 }
 
 .rosa{
 	background-color: #ee3e64;
-	position: relative;
-    left: 20px;
+	
+    
 }
 
 .azul{
 	background-color: #2C76B4;
-	position: fixed;
-    top: 70px; 
+    position: relative;
+    left: 200px;
+ 
 }
+   
 
 .verde{
 	background-color: #b7d84b;
-	position:relative;
-    bottom: -130px; 
+
+    
 }
 
-}
