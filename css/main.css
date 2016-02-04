@@ -13,15 +13,21 @@ div{
 
 .azul{
 	background-color: #2C76B4;
-    position: relative;
-    left: 200px;
+    position: absolute;
+    right: 486px;
+   
  
 }
    
-
 .verde{
 	background-color: #b7d84b;
-
+    
     
 }
 
+.amarillo{
+         background-color: #FAD954;
+         
+
+
+}
